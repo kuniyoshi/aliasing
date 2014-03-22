@@ -11,22 +11,24 @@ ALIASING
 原音
 ----
 
-チャンネル数       |        2
-サンプリング周波数 | 44.1 kHz
+チャンネル数は`2`です。
 
-原音の周波数スペクトルです。
-横軸は[十二平均律](http://ja.wikipedia.org/wiki/平均律)です。
+サンプリング周波数は`44.1`kHzです。
 
-| ![左チャンネル](http://purasi-bo.me/image/aliasing/base.d/left.gif) | ![右チャンネル](http://purasi-bo.me/image/aliasing/base.d/right.gif) |
+原音の周波数スペクトルです。 横軸は[十二平均律](http://ja.wikipedia.org/wiki/平均律)です。
+
+左チャンネル: ![左チャンネル](http://purasi-bo.me/image/aliasing/base.d/left.gif)
+
+右チャンネル: ![右チャンネル](http://purasi-bo.me/image/aliasing/base.d/right.gif)
 
 倍速化
 ------
 
 奇数番だけ取ってサンプル数を半分にしました。サンプリング周波数はそのままです。
 
-そのまま倍速化しているものと、11.025 kHz で Low Pass Filter してから倍速化しているものとを比べます。
+そのまま倍速化しているものと、`11.025`kHz で Low Pass Filter してから倍速化しているものとを比べます。
 
-振幅は 3000 で正規化しています。
+振幅は`3000`で正規化しています。
 
 [speed up](speed_up.md)
 
