@@ -34,18 +34,18 @@ ALIASING
 
 振幅は`3000`で正規化しています。
 
-[speed up](speed_up.md)
+[周波数スペクトル](speed_up.md)
 
 LPF
 ---
 
 Low Pass Filterが効いているかどうかを確認するために比べます。
 
-[lpf](lpf.md)
+[周波数スペクトル](lpf.md)
 
 ダウンサンプリング
 ------------------
 
 ダウンサンプリングしたときにエイリアシングがおきるかどうかを確認します。
 
-[down sampling](down_sampling.md)
+[周波数スペクトル](down_sampling.md)
