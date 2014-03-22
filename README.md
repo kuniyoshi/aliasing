@@ -17,7 +17,7 @@ ALIASING
 原音の周波数スペクトルです。
 横軸は[十二平均律](http://ja.wikipedia.org/wiki/平均律)です。
 
-| ![左チャンネル](//purasi-bo.me/image/aliasing/base.d/left.gif) | ![右チャンネル](//purasi-bo.me/image/aliasing/base.d/right.gif) |
+| ![左チャンネル](http://purasi-bo.me/image/aliasing/base.d/left.gif) | ![右チャンネル](http://purasi-bo.me/image/aliasing/base.d/right.gif) |
 
 倍速化
 ------
