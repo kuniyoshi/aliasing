@@ -11,19 +11,13 @@ ALIASING
 原音
 ----
 
-チャンネル数は`2`です。
+チャンネル数は`2`ですが、簡単のため左チャンネルだけ使います。
 
 サンプリング周波数は`44.1`kHzです。
 
 原音の周波数スペクトルです。 横軸は[十二平均律](http://ja.wikipedia.org/wiki/平均律)です。
 
-### 左チャンネル
-
 ![左チャンネル](http://purasi-bo.me/image/aliasing/base.d/left.gif)
-
-### 右チャンネル
-
-![右チャンネル](http://purasi-bo.me/image/aliasing/base.d/right.gif)
 
 倍速化
 ------
